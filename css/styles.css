@@ -1,0 +1,139 @@
+#title {
+    background-color: #ff4c68;
+}
+
+.fluid-container {
+    padding: 3% 10%;
+}
+
+h1 {
+    color: aliceblue;
+    font-family: Montserrat, Arial, Helvetica, sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+body {
+    font-family: Montserrat, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    align-items: center;
+}
+
+.navbar {
+    padding-bottom: 4.5rem;
+}
+
+.nav-item {
+    padding: 0 20px;
+}
+
+.nav-link {
+    color: whitesmoke;
+    font-weight: bold;
+    font-family: Montserrat;
+}
+
+.navbar-brand {
+    font-family: Montserrat, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 2.5rem;
+    line-height: 1.5;
+    font-weight: bold;
+}
+
+.custom {
+    margin: 10% 3%;
+}
+
+.title-img {
+    height: 800px;
+    transform: rotate(20deg);
+}
+
+.icon {
+    color: #ff4c68;
+    margin: 5% auto;
+    font-size: 600%;
+}
+
+#features {
+    padding: 7% 10%;
+    background-color: white;
+    position: relative;
+    z-index: 0;
+}
+
+.icon:hover {
+    color: #f33a56;
+}
+
+/* testmonial section */
+#testimonials {
+    position: relative;
+    z-index: 2;
+    text-align: center;
+    background-color: #ef8172;
+    color: white;
+}
+
+.testimonial-image {
+    width: 10%;
+    border-radius: 50%;
+
+}
+
+.carousel-item {
+    padding: 10% 10%;
+}
+
+#press {
+    text-align: center;
+    background-color: #ef8172;
+
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+.style {
+    text-align: center;
+    padding: 5px 60px;
+}
+
+#pricing {
+    text-align: center;
+    padding: 80px;
+}
+
+.spc {
+    margin: 100px 0 auto auto;
+}
+
+#cta {
+    font-family: Montserrat;
+    color: white;
+    background-color: #f33a56;
+    font-size: x-large;
+    font-weight: bolder;
+    padding: 2rem;
+    text-align: center;
+
+}
+
+.btn {
+    margin: 1rem;
+}
+
+#footer {
+    text-align: center;
+    padding: 2rem 0;
+}
+
+.social {
+    font-size: 2rem;
+    padding: 20px;
+}
+
+i {
+    padding: 5px;
+}
